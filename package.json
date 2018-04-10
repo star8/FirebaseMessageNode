@@ -6,6 +6,6 @@
   "license": "Mirach LLC",
   "author": "Sourav Roy.",
   "dependencies": {
-    "node-gcm": "^0.14.10"
+    "request": "^2.85.0"
   }
 }
