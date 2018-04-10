@@ -1,0 +1,11 @@
+{
+  "name": "Firebase-node-project",
+  "version": "0.0.1",
+  "main": "index.js",
+  "private": true,
+  "license": "Mirach LLC",
+  "author": "Sourav Roy.",
+  "dependencies": {
+    "node-gcm": "^0.14.10"
+  }
+}
