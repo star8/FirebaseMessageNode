@@ -1,0 +1,11 @@
+{
+  "name": "firebase-message-node",
+  "version": "0.0.1",
+  "main": "index.js",
+  "private": true,
+  "license": "Mirach LLC",
+  "author": "Sourav Roy.",
+  "dependencies": {
+    "request": "^2.85.0"
+  }
+}
